@@ -1,0 +1,13 @@
+@font-face {
+  src: url(lunchds.ttf);
+  font-family: retrofont;
+}
+
+ html, body {
+  margin: 0;
+  padding: 0;
+  background: yellow;
+}
+canvas {
+  display: block;
+}
